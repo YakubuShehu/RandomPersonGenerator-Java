@@ -9,3 +9,6 @@ int size; // the number of entries you want printed
 fnames.txt; // predefined 'human' first names listed line by line
 snames.txt; // predefined 'human' last names listed line by line
 
+
+### Pull Requests
+By all means, feel free to add updates at your leisure! Thank you.
